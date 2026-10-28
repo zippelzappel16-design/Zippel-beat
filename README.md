@@ -4,3 +4,5 @@ Rhythmusspiel für eigene Songs – Klavier, Gitarre und Kreise, mit Duell- und 
 
 **Download:** Unter [Releases](../../releases/latest) die `ZippelBeatStudio-Setup.exe` herunterladen und installieren.
 Das Spiel sucht danach selbst nach Updates.
+
+Der Ordner `update/` enthält die kleinen Updates, die das Spiel automatisch lädt.
