@@ -1,1 +1,1 @@
-{"version": "3.5", "shell": 1, "notes": "Gitarre: Hammer-ons (Noten ohne Anschlag) nur noch bei schnellen Läufen bis 0,25 s Abstand."}
+{"version": "3.6", "shell": 1, "notes": "Eigene Songs laden wieder: Songs kommen jetzt als kleine OGG-Datei statt großer WAV, und bei einem Abbruch versucht das Spiel es automatisch nochmal."}
