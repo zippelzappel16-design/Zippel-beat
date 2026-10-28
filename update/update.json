@@ -1,1 +1,1 @@
-{"version": "3.6", "shell": 1, "notes": "Eigene Songs laden wieder: Songs kommen jetzt als kleine OGG-Datei statt großer WAV, und bei einem Abbruch versucht das Spiel es automatisch nochmal."}
+{"version": "3.7", "shell": 1, "notes": "Online: Verlässt dein Mitspieler die Lobby oder schließt er das Spiel, merkt deine Lobby das jetzt und ist wieder offen für den nächsten."}
