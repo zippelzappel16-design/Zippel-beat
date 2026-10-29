@@ -1,1 +1,1 @@
-{"version": "4.2", "shell": 1, "notes": "Berserker: In Raserei heilt er sich jetzt zusätzlich jede Sekunde. Nur eine Betäubung durch x8 oder x16 stoppt das."}
+{"version": "4.3", "shell": 1, "notes": "Updates werden jetzt automatisch gesucht: beim Start, alle 30 Minuten und wenn du ins Hauptmenü zurückkehrst."}
