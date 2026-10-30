@@ -1,1 +1,1 @@
-{"version": "5.0", "shell": 1, "notes": "Online jetzt über eigenen Server: Serverliste, Lobbys bis 8 Spieler mit freiwilligem Passwort, Host-Wechsel, Online-Bestenliste."}
+{"version": "5.1", "shell": 1, "notes": "Ergebnisse werden jetzt nach jedem Song automatisch in die Online-Bestenliste eingetragen (abschaltbar in den Einstellungen). Online werden bis zu 100 Plätze angezeigt."}
